@@ -1,7 +1,7 @@
 # manipulando_dom
 
 Vamos a manipular el DOM en base al HTML que se entrega a continuación: 
-
+(revisar html comentado) -->
 <!-- 
 <div class="caja1 container">
  <div id="text1" >
